@@ -17,12 +17,14 @@
 
 - 🤯 fact: I won chess tournaments 4 times in a row 🤯  
   
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtudms3dDFhdHEwMW5obWtzODJkNzA1bWZ4ZHg2dDNkcm15N2FobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NbyIX55yMiTY07Gfzr/giphy.gif" align="center" style="width: 100%" />
+</div>  
 
 <br/>  
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
