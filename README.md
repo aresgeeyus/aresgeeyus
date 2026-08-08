@@ -1,8 +1,29 @@
-# 💫 About Me:
-I'm just some guy
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms4aWYxbXowaTBwdHAxbTU1MGI1NWl6ZG1tMzg2c3FjMDk4bnB3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NbyIX55yMiTY07Gfzr/giphy.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+### <div align="center">// information & stuffs //</div>  
+  
 
-## 🌐 Socials:
+- 📝 Name: Ramier Sam (alias: ram) 📝  
+  
+
+- 👍 still learning how to code 👍  
+  
+
+- 😤 please DO NOT ask me about anything I think is stupid 😤  
+  
+
+- 🤯 fact: I won chess tournaments 4 times in a row 🤯  
+  
+
+<br/>  
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+## Find me elsewhere here:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aresgeeyus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramiersam420420@gmail.com) 
 
 ---
