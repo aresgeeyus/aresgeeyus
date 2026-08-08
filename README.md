@@ -5,15 +5,21 @@
   
 
 - 📝 Name: Ramier Sam (alias: ram) 📝  
+
+
+- ♟️ I like to play chess♟️
+
+
+- 👍 just learning how to code 👍  
   
 
-- 👍 still learning how to code 👍  
+- 😤 please DO NOT ask me about anything I think is stupid 😤
   
 
-- 😤 please DO NOT ask me about anything I think is stupid 😤  
-  
+- 🤯 fact: I won chess tournaments 4 times in a row 🤯
 
-- 🤯 fact: I won chess tournaments 4 times in a row 🤯  
+
+- 🦾 my future goal: make a chess engine 🦾
   
 ### <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtudms3dDFhdHEwMW5obWtzODJkNzA1bWZ4ZHg2dDNkcm15N2FobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NbyIX55yMiTY07Gfzr/giphy.gif" align="center" style="width: 100%" />
