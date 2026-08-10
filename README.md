@@ -27,7 +27,7 @@
 
 ---
 
-### <div align="center"> how I felt when I make a brilliant move in chess.com </div>
+### <div align="center"> how I feel when I make a brilliant move in chess.com: </div>
   
 <div align="center"> 
 <img width="300" height="300" alt="Gotham Edit GIF" src="https://github.com/user-attachments/assets/3d059c9b-2e14-4148-893a-796a31bb21f1" /> </div>
