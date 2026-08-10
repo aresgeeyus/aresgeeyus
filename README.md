@@ -1,5 +1,9 @@
+### <div align="center"> Hello viewer... :) </div>
+<div align= "center">
+<img width="450"  height="450" alt="Face Smile GIF" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYzeHA0ZjZvMjc3aDJsMzJlNnNzYXpkZjNsY2hpOGtoa2NnY3BhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FZcSYI9o2cAaC49uuP/giphy.gif>
+</div>
 
-  
+---
 
 ### <div align="center">// information & stuffs //</div>  
   
@@ -20,10 +24,13 @@
 
 
 - 🦾 my future goal: make a chess engine 🦾
+
+---
+
+### <div align="center"> how I felt when I make a brilliant move in chess.com </div>
   
-### <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtudms3dDFhdHEwMW5obWtzODJkNzA1bWZ4ZHg2dDNkcm15N2FobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NbyIX55yMiTY07Gfzr/giphy.gif" align="center" style="width: 100%" />
-</div>  
+<div align="center"> 
+<img width="300" height="300" alt="Gotham Edit GIF" src="https://github.com/user-attachments/assets/3d059c9b-2e14-4148-893a-796a31bb21f1" /> </div>
 
 <br/>  
 
