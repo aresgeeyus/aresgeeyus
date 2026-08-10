@@ -8,7 +8,7 @@
 ### <div align="center">// information & stuffs //</div>  
   
 
-- 📝 Name: Ramier Sam (alias: ram, brobro) 📝  
+- 📝 Name: Ramier Sam (aliases: ram, brobro) 📝  
 
 
 - ♟️ I like to play chess♟️
