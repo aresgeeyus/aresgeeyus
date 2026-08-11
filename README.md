@@ -1,4 +1,4 @@
-### <div align="center"> Hello viewer... :) </div>
+### <div align="center"> Hello viewer... </div>
 <div align= "center">
 <img width="450"  height="450" alt="Face Smile GIF" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYzeHA0ZjZvMjc3aDJsMzJlNnNzYXpkZjNsY2hpOGtoa2NnY3BhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FZcSYI9o2cAaC49uuP/giphy.gif>
 </div>
